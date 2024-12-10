@@ -2,6 +2,8 @@
 
 # Event Planning Dashboard
 
+![Dashboard](https://github.com/AliHazem771/Power-BI-Project-3/blob/main/Event%20planning%20report%20image.PNG?raw=true)
+
 ## Overview
 
 This dashboard provides a comprehensive overview of event planning metrics, showcasing insights into event counts and participant statistics over the years. The data visualisations facilitate effective decision-making for future events.
